@@ -1,2 +1,1 @@
-# vg_account_confirm
-VGサンプルリポジトリ
+6e02ef601358ec6cc3e9ac924365bf84d59e1773c5c84687eb0e99c78887a3cd
